@@ -1,4 +1,4 @@
-Pterodactyl Server Monitor
+# Pterodactyl Server Monitor
 
 This Python script allows you to monitor the performance of servers on a Pterodactyl panel and shut down those that are inactive for a specified period of time.
 Features
