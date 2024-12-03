@@ -2,7 +2,6 @@
 
 This Python script allows you to monitor the performance of servers on a Pterodactyl panel and shut down those that are inactive for a specified period of time.
 Features
-
     Monitor server resources (CPU usage).
     Shut down inactive servers using less than 50% CPU for a certain duration.
     Use Pterodactyl's API to retrieve server information and perform actions (start, stop, restart).
